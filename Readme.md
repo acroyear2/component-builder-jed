@@ -1,6 +1,6 @@
 # component-builder-jed
 
-[jed](https://github.com/SlexAxton/Jed) plugin for [component-builder](https://www.npmjs.org/package/component-builder).
+[jed](http://slexaxton.github.io/Jed/) plugin for [component-builder](https://www.npmjs.org/package/component-builder).
 
 ## License
 
