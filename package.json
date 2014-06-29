@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "jed builder for component-builder",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "repository": "tetsuo/component-builder-jed",
   "keywords": [
