@@ -1,0 +1,33 @@
+{
+  "name": "component-builder-jed",
+  "version": "0.0.0",
+  "description": "jed builder for component-builder",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "tetsuo/component-builder-jed",
+  "keywords": [
+    "component",
+    "plugin",
+    "jed",
+    "i18n",
+    "gettext",
+    "component-builder"
+  ],
+  "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetsuo/component-builder-jed/issues"
+  },
+  "homepage": "https://github.com/tetsuo/component-builder-jed",
+  "dependencies": {
+    "jed": "^0.5.4",
+    "po2json": "^0.2.3"
+  },
+  "devDependencies": {
+    "component-builder": "^1.1.7",
+    "component-resolver": "^1.1.6",
+    "mocha": "^1.20.1",
+    "should": "^4.0.4"
+  }
+}
