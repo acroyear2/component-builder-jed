@@ -1,4 +1,4 @@
-# component-builder-jed
+# component-builder-jed [![Build Status](https://travis-ci.org/tetsuo/component-builder-jed.svg?branch=master)](https://travis-ci.org/tetsuo/component-builder-jed)
 
 [jed](http://slexaxton.github.io/Jed/) plugin for [component-builder](https://www.npmjs.org/package/component-builder).
 
