@@ -1,0 +1,9 @@
+{
+	"name": "example",
+	"scripts": [
+		"index.js"
+	],
+	"translations": [
+		"tr_TR.po"
+	]
+}
