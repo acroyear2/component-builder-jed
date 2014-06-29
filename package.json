@@ -1,6 +1,6 @@
 {
   "name": "component-builder-jed",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "jed plugin for component-builder",
   "scripts": {
     "test": "make test"
