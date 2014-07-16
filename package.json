@@ -22,7 +22,7 @@
   "homepage": "https://github.com/tetsuo/component-builder-jed",
   "dependencies": {
     "jed": "^0.5.4",
-    "po2json": "^0.2.3"
+    "po2json": "0.2.3"
   },
   "devDependencies": {
     "component-builder": "^1.1.7",
